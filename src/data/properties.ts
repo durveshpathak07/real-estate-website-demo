@@ -1,8 +1,8 @@
 import { Property } from '../types/property';
 
-export const HERO_IMAGE = '/src/assets/images/hero_luxury_villa_1792993798945.jpg';
-export const SERVICES_IMAGE = '/src/assets/images/services_architecture_1792993804583.jpg';
-export const ADVISOR_MARCUS_IMAGE = '/src/assets/images/advisor_marcus_lee_1792993804861.jpg';
+export const HERO_IMAGE = '/assets/images/hero_luxury_villa_1792993798945.jpg';
+export const SERVICES_IMAGE = '/assets/images/services_architecture_1792993804583.jpg';
+export const ADVISOR_MARCUS_IMAGE = '/assets/images/advisor_marcus_lee_1792993804861.jpg';
 
 export const PROPERTIES: Property[] = [
   {
@@ -35,11 +35,11 @@ export const PROPERTIES: Property[] = [
       'Smart Lutron Lighting & Sound',
       'Solar Battery Backup System'
     ],
-    image: '/src/assets/images/property_serenity_la_1792993800516.jpg',
+    image: '/assets/images/property_serenity_la_1792993800516.jpg',
     gallery: [
-      '/src/assets/images/property_serenity_la_1792993800516.jpg',
-      '/src/assets/images/hero_luxury_villa_1792993798945.jpg',
-      '/src/assets/images/services_architecture_1792993804583.jpg'
+      '/assets/images/property_serenity_la_1792993800516.jpg',
+      '/assets/images/hero_luxury_villa_1792993798945.jpg',
+      '/assets/images/services_architecture_1792993804583.jpg'
     ],
     description:
       'Perched on a private promontory above Los Angeles, Serenity Tower is an architectural masterwork conceived for seamless indoor-outdoor living. Framed by floor-to-ceiling glass and textural board-formed concrete, the residence captures cinematic golden-hour vistas spanning the Los Angeles basin to the Pacific horizon. Features a 60-foot reflecting pool, drought-resilient Japanese garden courtyards, and museum-grade finishes throughout.',
@@ -94,11 +94,11 @@ export const PROPERTIES: Property[] = [
       'Desalination Plant',
       'Private Chef Demonstration Kitchen'
     ],
-    image: '/src/assets/images/property_island_exuma_1792993800785.jpg',
+    image: '/assets/images/property_island_exuma_1792993800785.jpg',
     gallery: [
-      '/src/assets/images/property_island_exuma_1792993800785.jpg',
-      '/src/assets/images/property_comporta_portugal_1792993802659.jpg',
-      '/src/assets/images/hero_luxury_villa_1792993798945.jpg'
+      '/assets/images/property_island_exuma_1792993800785.jpg',
+      '/assets/images/property_comporta_portugal_1792993802659.jpg',
+      '/assets/images/hero_luxury_villa_1792993798945.jpg'
     ],
     description:
       'Set directly on the powder sands of Great Exuma, Island Retreat embodies quiet tropical modernism. Designed with crisp horizontal white volumes, sustainable limestone, and wide hurricane-rated glass sliders, the property merges effortlessly with the turquoise Bahamian waters. Offers a private pier capable of docking vessels up to 70 feet.',
@@ -152,11 +152,11 @@ export const PROPERTIES: Property[] = [
       'Custom Cedar Sauna',
       'Sub-Zero & Wolf Appliance Suite'
     ],
-    image: '/src/assets/images/property_mountain_aspen_1792993801393.jpg',
+    image: '/assets/images/property_mountain_aspen_1792993801393.jpg',
     gallery: [
-      '/src/assets/images/property_mountain_aspen_1792993801393.jpg',
-      '/src/assets/images/hero_luxury_villa_1792993798945.jpg',
-      '/src/assets/images/services_architecture_1792993804583.jpg'
+      '/assets/images/property_mountain_aspen_1792993801393.jpg',
+      '/assets/images/hero_luxury_villa_1792993798945.jpg',
+      '/assets/images/services_architecture_1792993804583.jpg'
     ],
     description:
       'A tour-de-force of contemporary alpine architecture, Mountain Lodge reinterprets the Colorado mountain home with razor-sharp geometric lines, charred Japanese timber, and structural glass. Surrounded by whispering evergreens and dramatic mountain crests, the home features two expansive living levels with radiant stone heating and an outdoor hydrotherapy hot tub.',
@@ -210,11 +210,11 @@ export const PROPERTIES: Property[] = [
       'Outdoor Dining & Fireplace Lounge',
       'Gated Private Enclave Security'
     ],
-    image: '/src/assets/images/property_comporta_portugal_1792993802659.jpg',
+    image: '/assets/images/property_comporta_portugal_1792993802659.jpg',
     gallery: [
-      '/src/assets/images/property_comporta_portugal_1792993802659.jpg',
-      '/src/assets/images/property_azura_mykonos_1792993803418.jpg',
-      '/src/assets/images/property_tulum_eco_1792993804007.jpg'
+      '/assets/images/property_comporta_portugal_1792993802659.jpg',
+      '/assets/images/property_azura_mykonos_1792993803418.jpg',
+      '/assets/images/property_tulum_eco_1792993804007.jpg'
     ],
     description:
       'Situated in the coveted coastal dunes of Comporta just an hour south of Lisbon, this residence captures the essence of refined Portuguese coastal chic. Low-slung whitewashed geometry, raw wooden trellises, and polished microcement create a calm atmosphere of understated luxury. Steps away from miles of pristine, uncrowded Atlantic sand beaches.',
@@ -268,11 +268,11 @@ export const PROPERTIES: Property[] = [
       'High-Speed Starlink Satellite Connectivity',
       '24/7 Concierge & Security'
     ],
-    image: '/src/assets/images/property_tulum_eco_1792993804007.jpg',
+    image: '/assets/images/property_tulum_eco_1792993804007.jpg',
     gallery: [
-      '/src/assets/images/property_tulum_eco_1792993804007.jpg',
-      '/src/assets/images/property_serenity_la_1792993800516.jpg',
-      '/src/assets/images/services_architecture_1792993804583.jpg'
+      '/assets/images/property_tulum_eco_1792993804007.jpg',
+      '/assets/images/property_serenity_la_1792993800516.jpg',
+      '/assets/images/services_architecture_1792993804583.jpg'
     ],
     description:
       'Immersed in the lush jungle canopy of Tulum, this brutalist architectural sanctuary bridges modern raw concrete with ancient Mayan craftsmanship. Walls finished in organic waterproof chukum resin blend into local hand-stacked limestone boulders. Features an emerald-green plunge pool, outdoor shower pavilions, and open-air entertaining verandas.',
@@ -326,11 +326,11 @@ export const PROPERTIES: Property[] = [
       'Direct Coastal Path Access',
       'Separate Staff Quarters'
     ],
-    image: '/src/assets/images/property_azura_mykonos_1792993803418.jpg',
+    image: '/assets/images/property_azura_mykonos_1792993803418.jpg',
     gallery: [
-      '/src/assets/images/property_azura_mykonos_1792993803418.jpg',
-      '/src/assets/images/property_island_exuma_1792993800785.jpg',
-      '/src/assets/images/property_comporta_portugal_1792993802659.jpg'
+      '/assets/images/property_azura_mykonos_1792993803418.jpg',
+      '/assets/images/property_island_exuma_1792993800785.jpg',
+      '/assets/images/property_comporta_portugal_1792993802659.jpg'
     ],
     description:
       'Poised dramatically above the Aegean waters in southern Mykonos, Azura Villa is an authentic celebration of Cycladic organic forms rendered with contemporary precision. Soft curved whitewashed parapets flow into rugged natural stone retaining walls. An iconic curved infinity pool appears to spill directly into the sapphire waters below.',
