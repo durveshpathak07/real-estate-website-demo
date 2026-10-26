@@ -1,0 +1,6 @@
+{
+  "name": "Horizon Estate | Luxury Architectural Real Estate",
+  "description": "Discover exceptional luxury villas, contemporary residences, and curated architectural properties worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
